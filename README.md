@@ -1,70 +1,15 @@
-# Hi, I'm Umar Zaki Gunawan 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6eW5ycWpjbDg2OXNvaDA3YXlkaXYzc2l5ZmwyenQyazdrN3hseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kE85Vr04k9EBjutNcX/giphy.gif" width="500">
+</p>
 
-> Engineering Physics student who somehow decided that learning physics,
-> programming, semiconductors, and web development simultaneously was a good idea.
+<h1 align="center">Hi, I'm Umar Zaki Gunawan 👋</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=UmarZakiGunawan&color=blueviolet&style=flat-square)](https://github.com/UmarZakiGunawan)
+<p align="center">
+Engineering Physics student at Telkom University who somehow thought learning physics, programming, web development, semiconductors, and quantum stuff at the same time was a good idea. Currently building things, breaking things, and occasionally figuring out why they broke. I enjoy solving difficult problems, probably because I haven't learned to avoid them yet. I'm currently looking for internships, research opportunities, cool engineering projects, or basically anyone willing to say <b>"please hire me."</b>
+</p>
 
----
-
-## 🧠 About Me
-
-I'm an **Engineering Physics student at Telkom University** who enjoys turning
-coffee, questionable amounts of debugging, and physics problems into things
-that occasionally work.
-
-Currently interested in:
-
-- ⚛️ Computational Physics & Quantum Physics
-- 💻 Web Development
-- 🔬 Semiconductor & IC Design
-- 🧮 Scientific Computing
-- 🤖 Technology & Engineering
-- 🧪 Research — because apparently assignments weren't enough
-
-🌱 Currently learning **Web Development, IC Design, and how to make my code
-compile on the first try.**
-
-Spoiler: it doesn't.
-
----
-
-## 💼 Why Should You Hire Me?
-
-Because I am:
-
-- ✅ Willing to learn
-- ✅ Comfortable with difficult problems
-- ✅ Capable of Googling professionally
-- ✅ Experienced in debugging problems I created myself
-- ✅ Able to turn `it should work` into a 3-hour debugging session
-- ✅ Familiar with both physics and programming
-- ❌ Still waiting for someone to give me a reason to stop saying "I'll just
-  implement this quickly"
-
-### My professional workflow
-
-```text
-Problem
-   ↓
-"I can probably solve this"
-   ↓
-Write code
-   ↓
-Error
-   ↓
-Google
-   ↓
-Stack Overflow
-   ↓
-Question my life choices
-   ↓
-Fix the error
-   ↓
-Create 3 new errors
-   ↓
-Fix those
-   ↓
-"It works!"
-   ↓
-Never touch that code again
+<p align="center">
+  <a href="https://instagram.com/umarzk_">Instagram</a> •
+  <a href="https://www.linkedin.com/in/umar-zaki-gunawan-485817286/">LinkedIn</a> •
+  <a href="https://x.com/Markigun_">X</a>
+</p>
