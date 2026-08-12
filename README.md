@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6eW5ycWpjbDg2OXNvaDA3YXlkaXYzc2l5ZmwyenQyazdrN3hseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kE85Vr04k9EBjutNcX/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl6eW5ycWpjbDg2OXNvaDA3YXlkaXYzc2l5ZmwyenQyazdrN3hseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kE85Vr04k9EBjutNcX/giphy.gif" width="300">
 </p>
 
 <h1 align="center">Hi, I'm Umar Zaki Gunawan 👋</h1>
